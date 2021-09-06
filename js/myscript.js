@@ -54,7 +54,7 @@ while ( listaScelte.length < numeroScelte ){
 console.log(listaScelte);
 
 
-// INIZIO FUNZIONI!
+// INIZIO FUNZIONI!!
 
 function numeriDaLivello(livelloDeciso){
     let numeroTemporaneoBombe;
